@@ -2,3 +2,5 @@ github.com/skormos/staticcheck-test-dependency v0.0.0-20210206185604-7f054ae0663
 github.com/skormos/staticcheck-test-dependency v0.0.0-20210206185604-7f054ae0663c/go.mod h1:wpFM1m0ErTEvbQKJo+4BlogLi1e00j9RnpKvPwNraS0=
 github.com/skormos/staticcheck-test-dependency v1.0.0 h1:xN7tDvw13JmhXma2ohlxSbmi0d4snKBoNKr637gURl0=
 github.com/skormos/staticcheck-test-dependency v1.0.0/go.mod h1:wpFM1m0ErTEvbQKJo+4BlogLi1e00j9RnpKvPwNraS0=
+github.com/skormos/staticcheck-test-dependency v1.0.1 h1:aRG3WejeTp8NO2P9eBYfzMxbnvAqvrs7uvWzh6v378E=
+github.com/skormos/staticcheck-test-dependency v1.0.1/go.mod h1:wpFM1m0ErTEvbQKJo+4BlogLi1e00j9RnpKvPwNraS0=
