@@ -1,0 +1,4 @@
+github.com/skormos/staticcheck-test-dependency v0.0.0-20210206185604-7f054ae0663c h1:NbkibSq/ThSdQd7KruUML1OiBi2zxA5KmmMkQd0U7O0=
+github.com/skormos/staticcheck-test-dependency v0.0.0-20210206185604-7f054ae0663c/go.mod h1:wpFM1m0ErTEvbQKJo+4BlogLi1e00j9RnpKvPwNraS0=
+github.com/skormos/staticcheck-test-dependency v1.0.0 h1:xN7tDvw13JmhXma2ohlxSbmi0d4snKBoNKr637gURl0=
+github.com/skormos/staticcheck-test-dependency v1.0.0/go.mod h1:wpFM1m0ErTEvbQKJo+4BlogLi1e00j9RnpKvPwNraS0=
